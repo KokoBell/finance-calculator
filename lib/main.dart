@@ -1,13 +1,22 @@
 import 'package:finance_calculators_app/dashboard.dart';
 import 'package:finance_calculators_app/login.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_native_splash/flutter_native_splash.dart';
+import 'package:firebase_core/firebase_core.dart';
 
-void main() {
-  WidgetsBinding wB = WidgetsFlutterBinding.ensureInitialized();
-  FlutterNativeSplash.preserve(widgetsBinding: wB);
-  runApp(const MyApp());
-  FlutterNativeSplash.remove();
+Future main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  await Firebase.initializeApp(
+    options: const FirebaseOptions(
+        apiKey: "AIzaSyB7OqT8AYmGzroV7S-QOkIZpXTbQu6x4l4",
+        authDomain: "flutter-project-7.firebaseapp.com",
+        projectId: "flutter-project-7",
+        storageBucket: "flutter-project-7.appspot.com",
+        messagingSenderId: "1028372468931",
+        appId: "1:1028372468931:web:8a9571cfd9706886343e76"),
+  );
+  runApp(
+    const MyApp(),
+  );
 }
 
 class MyApp extends StatelessWidget {

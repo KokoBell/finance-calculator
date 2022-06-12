@@ -48,8 +48,8 @@ class Dashboard extends StatelessWidget {
               padding: const EdgeInsets.all(12),
               child: Row(
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                children: [
-                  const Text(
+                children: const [
+                  Text(
                     "Discover your earning potential",
                     style: TextStyle(fontSize: 24, fontWeight: FontWeight.w700),
                     textAlign: TextAlign.center,

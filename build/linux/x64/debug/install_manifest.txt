@@ -1,0 +1,15 @@
+/home/tumeloak/Documents/Code/tumelo-koko-module-5/build/linux/x64/debug/bundle/finance_calculators_app
+/home/tumeloak/Documents/Code/tumelo-koko-module-5/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/tumeloak/Documents/Code/tumelo-koko-module-5/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/tumeloak/Documents/Code/tumelo-koko-module-5/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/tumeloak/Documents/Code/tumelo-koko-module-5/build/linux/x64/debug/bundle/data/flutter_assets/assets/images/compound.png
+/home/tumeloak/Documents/Code/tumelo-koko-module-5/build/linux/x64/debug/bundle/data/flutter_assets/assets/images/login.png
+/home/tumeloak/Documents/Code/tumelo-koko-module-5/build/linux/x64/debug/bundle/data/flutter_assets/assets/images/profile.png
+/home/tumeloak/Documents/Code/tumelo-koko-module-5/build/linux/x64/debug/bundle/data/flutter_assets/assets/images/simple.png
+/home/tumeloak/Documents/Code/tumelo-koko-module-5/build/linux/x64/debug/bundle/data/flutter_assets/assets/images/welcome.png
+/home/tumeloak/Documents/Code/tumelo-koko-module-5/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/tumeloak/Documents/Code/tumelo-koko-module-5/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/tumeloak/Documents/Code/tumelo-koko-module-5/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/tumeloak/Documents/Code/tumelo-koko-module-5/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/tumeloak/Documents/Code/tumelo-koko-module-5/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/tumeloak/Documents/Code/tumelo-koko-module-5/build/linux/x64/debug/bundle/data/flutter_assets/version.json
